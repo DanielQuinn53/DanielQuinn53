@@ -1,6 +1,5 @@
 
 - 🔭 I’m currently working on Quantum Machine Learning.
-- 🌱 I’m currently learning the Qiskit Library and Italian.
 - 👯 I’m looking to collaborate on any fun project on QML.
 - 📫 How to reach me: dquinn53@qub.ac.uk
 - 😄 Pronouns: he/him
